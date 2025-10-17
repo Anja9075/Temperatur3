@@ -62,7 +62,7 @@ void app_main(void)
 
     adc_oneshot_unit_handle_t adc = init_adc();
 
-    static adc_oneshot_unit_handle_t init_adc(void)
+    static adc_oneshot_unit_handle_t adc(void)
     {
     
         // Handle für die ADC-Einheit
