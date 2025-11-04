@@ -108,7 +108,3 @@ void app_main(void)
     // Not reached normally: cleanup
     // ESP_ERROR_CHECK(adc_oneshot_del_unit(adc));
 }
-
-
-
-

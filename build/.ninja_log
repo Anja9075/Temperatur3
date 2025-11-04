@@ -1585,3 +1585,26 @@
 330	397	7824002903937587	bootloader-prefix/src/bootloader-stamp/bootloader-done	d20fac0f3bbded07
 330	397	7824002903937587	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/CMakeFiles/bootloader-complete	d20fac0f3bbded07
 330	397	7824002903937587	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	d20fac0f3bbded07
+84	257	7824013155276144	esp-idf/main/CMakeFiles/__idf_main.dir/hello_world_main.c.obj	f8309f2d3cd08a1e
+93	288	7824013155383059	bootloader-prefix/src/bootloader-stamp/bootloader-build	5ea6fc9a5dd47774
+93	288	7824013155383059	bootloader/bootloader.elf	5ea6fc9a5dd47774
+93	288	7824013155383059	bootloader/bootloader.bin	5ea6fc9a5dd47774
+93	288	7824013155383059	bootloader/bootloader.map	5ea6fc9a5dd47774
+93	288	7824013155383059	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	5ea6fc9a5dd47774
+93	288	7824013155383059	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader/bootloader.elf	5ea6fc9a5dd47774
+93	288	7824013155383059	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader/bootloader.bin	5ea6fc9a5dd47774
+93	288	7824013155383059	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader/bootloader.map	5ea6fc9a5dd47774
+290	331	7824013157342378	bootloader-prefix/src/bootloader-stamp/bootloader-install	8617a38db5a0f471
+290	331	7824013157342378	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	8617a38db5a0f471
+259	363	7824013156958000	esp-idf/main/libmain.a	2c5d93cdb34690d4
+331	410	7824013158451244	CMakeFiles/bootloader-complete	d20fac0f3bbded07
+331	410	7824013158451244	bootloader-prefix/src/bootloader-stamp/bootloader-done	d20fac0f3bbded07
+331	410	7824013158451244	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/CMakeFiles/bootloader-complete	d20fac0f3bbded07
+331	410	7824013158451244	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	d20fac0f3bbded07
+363	6308	7824013217208863	esp-idf/esp_system/ld/sections.ld	717552aa51483073
+363	6308	7824013217208863	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/esp-idf/esp_system/ld/sections.ld	717552aa51483073
+6308	6874	7824013217418025	Temperatur3.elf	bd21679f3395b5ef
+6875	7139	7824013225709860	.bin_timestamp	f609abaffd1f4d9a
+6875	7139	7824013225709860	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/.bin_timestamp	f609abaffd1f4d9a
+7139	7222	7824013225709860	esp-idf/esptool_py/CMakeFiles/app_check_size	3c8d066a712e8100
+7139	7222	7824013225709860	C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/esp-idf/esptool_py/CMakeFiles/app_check_size	3c8d066a712e8100
