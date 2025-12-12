@@ -1,4 +1,4 @@
-/* * Data converted from C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

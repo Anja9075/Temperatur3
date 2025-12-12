@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/main
+# Install script for directory: C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

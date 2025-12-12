@@ -22,4 +22,4 @@ set confirm off
 set confirm on
 
 # Load application symbols
-file C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader/bootloader.elf
+file C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/build/bootloader/bootloader.elf

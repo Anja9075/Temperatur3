@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: C:\Users\Anja\OneDrive - HTL Krems\Dokumente\Temperatur3\build\esp-idf\esp_system\ld\sections.ld.in */
+/* Generated from: C:\Users\Anja\OneDrive - HTL Krems\SCHULE\PRE\3\Temperatur3\build\esp-idf\esp_system\ld\sections.ld.in */
 
 /*
 

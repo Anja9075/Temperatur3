@@ -10,18 +10,18 @@ if(NOT EXISTS "C:/Users/Anja/esp/v5.5.1/esp-idf/components/bootloader/subproject
   file(MAKE_DIRECTORY "C:/Users/Anja/esp/v5.5.1/esp-idf/components/bootloader/subproject")
 endif()
 file(MAKE_DIRECTORY
-  "C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader"
-  "C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix"
-  "C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix/tmp"
-  "C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix/src/bootloader-stamp"
-  "C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix/src"
-  "C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix/src/bootloader-stamp"
+  "C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/build/bootloader"
+  "C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/build/bootloader-prefix"
+  "C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/build/bootloader-prefix/tmp"
+  "C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/build/bootloader-prefix/src/bootloader-stamp"
+  "C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/build/bootloader-prefix/src"
+  "C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/Anja/OneDrive - HTL Krems/Dokumente/Temperatur3/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/Anja/OneDrive - HTL Krems/SCHULE/PRE/3/Temperatur3/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()
